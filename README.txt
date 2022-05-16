@@ -1,4 +1,6 @@
+This fork is an attempt to get this lib compiled for macOS M1 machines. Only some objects compile right now (with lots of warnings).
 
+____________________
 unauthorized is a library of GUI objects and a handful of objects for working
 with streaming and mp3s.  The home page for the GPL version is here:
 
